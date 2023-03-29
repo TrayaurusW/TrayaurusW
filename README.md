@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrayaurusW
 - 👀 I’m interested Github
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothins,welcome someone's corperation
+- 🌱 I’m currently learning Python,C#,HTML,CSS,Javascript,PHP,C++
+- 💞️ I’m looking to collaborate on nothins,welcome anyone's corperation
 - 📫 How to reach me,I think the best way reach me is visit my Github
 
 <!---
